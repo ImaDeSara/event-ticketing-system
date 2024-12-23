@@ -1,0 +1,32 @@
+.button1 {
+    background-color: #555555;
+    color: white;
+    border: none;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 12px;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+  }
+
+  td{
+    padding: 25px;
+  }
+  
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin: 20px 100px;
+  }
